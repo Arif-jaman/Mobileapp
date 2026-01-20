@@ -1,2 +1,0 @@
-# Mobileapp
-delete unused file
