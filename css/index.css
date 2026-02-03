@@ -26,15 +26,15 @@ body {
         Meiryo,
         sans-serif;
     text-align: center;
-    background-image: url(../img/enemi.jpg);
-    /* background-size: 1000px 1000px; */
+    background-image: url(../img/gre.jpg);
+    /* background-size: 430px 932px; */
     background-size: cover;
     background-repeat: no-repeat;
-    /* width: 2000px;
-    height: 800px; */
+    /* width: 1500px; */
+    height: 800px;
 
-     background-position: center; 
-    overflow: hidden; 
+    background-position: center;
+    overflow: hidden;
 }
 
 header,
